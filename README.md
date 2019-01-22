@@ -39,6 +39,8 @@ In the case that the tile you select is a bomb:
 <img width="142" alt="screen shot 2019-01-21 at 7 01 53 pm" src="https://user-images.githubusercontent.com/46582899/51504451-0f055200-1daf-11e9-9494-ce6af7f5ac17.png">
 
 
+You're ready to play now! Happy sweeping!
+
 
 
 
