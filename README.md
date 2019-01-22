@@ -15,9 +15,9 @@ Players are prompted for a row and a column to reveal. If the tile that the play
 
 # Legend
 
-1. ( - ) : hidden tile
-2. ( 4 ) : the amount of adjacent bombs to the tile
-3. ( * ) : bomb
+1. #  : hidden tile
+2. 4  : the amount of adjacent bombs to the tile
+3. *  : bomb
 
 
 *NOTE: Rows and Columns both start from 0 and go up to 9.* 
