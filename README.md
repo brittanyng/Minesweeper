@@ -1,5 +1,5 @@
 # Minesweeper
-Minesweeper Game written in C++
+Minesweeper in C++
 
 # How to Play
 You are presented with a board of squares. Some squares contain mines (bombs), others don't. 
